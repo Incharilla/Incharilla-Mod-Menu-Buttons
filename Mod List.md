@@ -281,4 +281,4 @@
 
 " Shit {<color=red>RG</color>} "
 
-"Cum {<color=red>RG</color>}"
+" Cum {<color=red>RG</color>} "
