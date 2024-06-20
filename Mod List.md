@@ -1,36 +1,4 @@
 " Settings "
-" Important Mods "
-" Movement Mods "
-" Rig Mods "
-" Tag Mods "
-" Fun Mods "
-" Visual Mods "
-" OP Mods "
-" Return "
-" Save Configuration "
-" Load Configuration "
-" Left Hand "
-" Disable Disconnect Button "
-" Disable Fps Counter "
-" Join Random "
-" Zero Ping {<color=green>W</color>} "
-" Enable Notifications "
-" Agree To TOS "
-" Return "
-" AntiBan {<color=red>DB??</color>} "
-" AntiBan V2 {<color=red
-
-
-
-
-MAKE THEM HAVE SPACES
-
-ChatGPT
-Got it! Here are the parts inside the quotes with spaces around them:
-
-arduino
-Copy code
-" Settings "
 
 " Important Mods "
 
