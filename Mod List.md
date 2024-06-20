@@ -1,284 +1,288 @@
 # MOD LIST FOR INCHARILLA MOD MENU
 
 # Main
-" Settings "
+Settings
 
-" Important Mods "
+Important Mods
 
-" Movement Mods "
+Movement Mods
 
-" Rig Mods "
+Rig Mods
 
-" Tag Mods "
+Tag Mods
 
-" Fun Mods "
+Fun Mods
 
-" Visual Mods "
+Visual Mods
 
-" OP Mods "
+Visual Mods
 
-" Return "
+OP Mods
 
 # Settings
-" Save Configuration "
+Return
 
-" Load Configuration "
+Save Configuartion
 
-" Left Hand "
+Load Configuartion
 
-" Disable Disconnect Button "
+Left Hand
 
-" Disable Fps Counter "
+Disable Disconnect Button
 
-" Join Random "
+Disable Fps Counter
 
-" Zero Ping {<color=green>W</color>} "
+Join Random
 
-" Enable Notifications "
+Zero Ping {<color=green>W</color>}
 
-" Agree To TOS "
+Enable Notifications
 
-" Return "
+Agree To TOS
 
-" AntiBan {<color=red>DB??</color>} "
+Gay Projectiles
 
-" AntiBan V2 {<color=red>TEST</color>} "
+White Projectiles
 
-" Mew "
+Return
 
-" Disable Network Triggers "
+AntiBan {<color=red>DB??</color>}
 
-" Anti Afk Kick "
+AntiBan V2 {<color=red>DB??</color>}
 
-" Uncap FPS {<color=red>D?</color>} "
+Mew
 
-" Anti Moderator "
+Disable Network Triggers
 
-" Anti Moderator V2 "
+Anti Afk Kick
 
-" Normal Hz "
+Uncap FPS {<color=red>D?</color>}
 
-" Low Hz "
+Anti Moderator
 
-" High Hz "
+Anti Moderator V2
 
-" Potato PC "
+Normal Hz
 
-" Gay Projectiles "
+Low Hz
 
-" White Projectiles "
+High Hz
 
-# Movements
-" Return "
+Potato PC
 
-" Platforms "
+# Movement Mods
+Return
 
-" Noclip {<color=green>RT</color>} "
+Platforms
 
-" Comp Long Arms "
+Noclip {<color=green>RT</color>}
 
-" Ghost Long Arms "
+Comp Long Arms
 
-" Sloth Fly {<color=green>RG</color>} "
+Ghost Long Arms
 
-" Fly {<color=green>RG</color>} "
+Sloth Fly {<color=green>RG</color>}
 
-" Fast Fly {<color=green>RG</color>} "
+Fly {<color=green>RG</color>}
 
-" Insane Fly {<color=green>RG</color>} "
+Fast Fly {<color=green>RG</color>}
 
-" Speed Mosa "
+Insane Fly {<color=green>RG</color>}
 
-" Speed Comp "
+Speed Mosa
 
-" Speed Pixi "
+Speed Comp
 
-" PBBV Walk "
+Speed Pixi
 
-" No Tag Freeze "
+PBBV Walk
 
-" Wall Walk "
+No Tag Freeze
 
-" Freecam {<color=green>WASD</color>} "
+Wall Walk 
 
-" Punch Mod {<color=green>Working??</color>} "
+Freecam {<color=green>WASD</color>}
 
-# Rig Mods
-" Return "
+# Self Mods
+Return
 
-" Good Mic "
+Good Mic
 
-" Shit Mic "
+Shit Mic
 
-" Griddy {<color=green>Remade</color>} "
+Invis Monkey {<color=green>RT</color>}
 
-" Invis Monkey {<color=green>RT</color>} "
+Ghost Monkey {<color=green>LT</color>}
 
-" Ghost Monkey {<color=green>LT</color>} "
+Upside Down Head
 
-" Upside Down Head "
+SpinHead Y
 
-" SpinHead Y "
+SpinHead X
 
-" SpinHead X "
+SpinHead Z
 
-" SpinHead Z "
+Jupiter Grav
 
-" Jupiter Grav "
+Zero Grav
 
-" Zero Grav "
+RGB Monke {<color=red>CS</color>}
 
-" RGB Monke {<color=red>CS</color>} "
+Strobe {<color=red>CS</color>}
 
-" Strobe {<color=red>CS</color>} "
+Return
 
-# Tag Mods
-" Return "
+No Tag On Join {<color=red>Buggy?</color>}
 
-" No Tag On Join {<color=red>Buggy?</color>} "
+Tag All {<color=green>RT</color>}
 
-" Tag All {<color=green>RT</color>} "
+Flick Tag Gun
 
-" Flick Tag Gun "
+Tag Gun
 
-" Tag Gun "
+Material Spam Self
 
-" Material Spam Self "
+Material Spam All
 
-" Material Spam All "
+Fix Rig
 
-" Fix Rig "
+Untag Self {<color=red>D</color>}
 
-" Untag Self {<color=red>D</color>} "
-
-" Untag All {<color=red>D</color>} "
+Untag All {<color=red>D</color>}
 
 # Fun Mods
-" Return "
+Return
 
-" Free Cosmetics {<color=red>CS</color>} "
+Free Cosmetics {<color=red>CS</color>}
 
-" Disable Air {<color=red>Forest W?</color>} "
+Remove Forest Wind {<color=red>W?</color>}
 
-" Rope Spaz {<color=red>Canyons</color>} "
+Rope Spaz {<color=red>Canyons</color>}
 
-" Ropes Up {<color=red>Canyons</color>} "
+Ropes Up {<color=red>Canyons</color>}
 
-" Ropes Down {<color=red>Canyons</color>} "
+Ropes Down {<color=red>Canyons</color>}
 
-" Water Splash {<color=green>RG LG</color>} "
+Water Splash {<color=green>RG LG</color>}
 
-" Water Splash Self {<color=red>Buggy</color>} "
+Water Splash Self {<color=red>Buggy</color>}
 
-" Random Sound Spam {<color=red>RG</color>} "
+Punch Mod {<color=green>Working??</color>}
 
-" Bass Sound Spam {<color=red>RG</color>} "
+Griddy {<color=green>Remade</color>}
 
-" Wolf Sound Spam {<color=red>RG</color>} "
+Random Sound Spam {<color=red>RG</color>}
 
-" Cat Sound Spam {<color=red>RG</color>} "
+Bass Sound Spam {<color=red>RG</color>}
 
-" Turkey Sound Spam {<color=red>RG</color>} "
+Wolf Sound Spam {<color=red>RG</color>}
 
-" Frog Sound Spam {<color=red>RG</color>} "
+Cat Sound Spam {<color=red>RG</color>}
 
-" Bee Sound Spam {<color=red>RG</color>} "
+Turkey Sound Spam {<color=red>RG</color>}
 
-" Ding Sound Spam {<color=red>RG</color>} "
+Frog Sound Spam {<color=red>RG</color>}
 
-" Big Crystal Sound Spam {<color=red>RG</color>} "
+Bee Sound Spam {<color=red>RG</color>}
 
-" Pan Sound Spam {<color=red>RG</color>} "
+Ding Sound Spam {<color=red>RG</color>}
 
-" Siren Sound Spam {<color=red>RG</color>} "
+Big Crystal Sound Spam {<color=red>RG</color>}
 
-" Earrape Sound Spam {<color=red>RG</color>} "
+Pan Sound Spam {<color=red>RG</color>}
+
+Siren Sound Spam {<color=red>RG</color>}
+
+Earrape Sound Spam {<color=red>RG</color>}
 
 # Visual Mods
-" Return "
+Return
 
-" FPC "
+FPC
 
-" Tracers "
+Tracers
 
-" Chams "
+Chams
 
-" Box ESP "
+Box ESP
 
-" Beacons "
+Beacons
 
-" Bone ESP "
+Bone ESP
 
-" Purple Sky "
+Purple Sky
 
-" Blue Sky "
+Blue Sky
 
-" Black Sky "
+Black Sky
 
-" Normal Sky "
-
-" Return "
+Normal Sky
 
 # OP Mods
-" Set Master {<color=purple>ANTIBAN</color>} "
+Return
 
-" Float Gun "
+Set Master {<color=purple>ANTIBAN</color>}
 
-" Float Self "
+Float Self {<color=red>M</color>}
 
-" Glider Blind All "
+Float Gun {<color=red>M</color>}
 
-" Glider Blind Gun "
+Float All {<color=red>RT M</color>}
 
-" Projectile Blind All "
+Glider Blind Gun
 
-" Projectile Blind Gun "
+Glider Blind All
 
-" Tag Lag {<color=red>M</color>} "
+Projectile Blind Gun {<color=red>Glitchy</color>}
 
-" Remove Tag Lag {<color=red>M</color>} "
+Projectile Blind All {<color=red>Glitchy</color>}
 
-" No Tag Delay {<color=red>M</color>} "
+Tag Lag {<color=red>M</color>}
 
-" Slow Gun "
+Remove Tag Lag {<color=red>M</color>}
 
-" Slow All "
+No Tag Delay {<color=red>M</color>}
 
-" Vibrate Gun "
+Slow Gun {<color=red>M</color>}
 
-" Vibrate All "
+Slow All {<color=red>RT M</color>}
 
-" Glider Gun {<color=red>W? D?</color>} "
+Vibrate Gun {<color=red>M</color>}
 
-" Fast Gliders {<color=red>W? D?</color>} "
+Vibrate All {<color=red>RT M</color>}
 
-" Joe Biden Gliders {<color=red>W? D?</color>} "
+Glider Gun {<color=red>W? D?</color>}
 
-" Retarted Gliders {<color=red>W? D?</color>} "
+Fast Gliders {<color=red>W? D?</color>}
 
-" Kick Party "
+Joe Biden Gliders {<color=red>W? D?</color>}
 
-" Destroy Party "
+Retarted Gliders {<color=red>W? D?</color>}
 
-" Self Party "
+Kick Party
 
-" Bring Party To {<color=red>N!GG3R</color>} "
+Destroy Party
 
-" Bring Party To {<color=red>N!GGA</color>} "
+Self Party
 
-" Bring Party To {<color=red>KKK</color>} "
+Bring Party To {<color=red>N!GG3R</color>}
+
+Bring Party To {<color=red>N!GGA</color>}
+
+Bring Party To {<color=red>KKK</color>}
 
 # Projectile Mods
-" Return "
+Return
 
-" Projectile Impact {<color=red>RG</color>} "
+Projectile Impact {<color=red>RG</color>}
 
-" Projectile Spam {<color=red>RG</color>} "
+Projectile Spam {<color=red>RG</color>}
 
-" Fart {<color=red>RG</color>} "
+Fart {<color=red>RG</color>}
 
-" Piss {<color=red>RG</color>} "
+Piss {<color=red>RG</color>}
 
-" Shit {<color=red>RG</color>} "
+Shit {<color=red>RG</color>}
 
-" Cum {<color=red>RG</color>} "
+Cum {<color=red>RG</color>}
+
