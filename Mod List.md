@@ -268,7 +268,7 @@
 
 " Bring Party To {<color=red>KKK</color>} "
 
-# Projectiles
+# Projectile Mods
 " Return "
 
 " Projectile Impact {<color=red>RG</color>} "
