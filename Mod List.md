@@ -61,6 +61,10 @@
 
 " Potato PC "
 
+" Gay Projectiles "
+
+" White Projectiles "
+
 " Return "
 
 " Platforms "
@@ -254,3 +258,17 @@
 " Bring Party To {<color=red>N!GGA</color>} "
 
 " Bring Party To {<color=red>KKK</color>} "
+
+" Return "
+
+" Projectile Impact {<color=red>RG</color>} "
+
+" Projectile Spam {<color=red>RG</color>} "
+
+" Fart {<color=red>RG</color>} "
+
+" Piss {<color=red>RG</color>} "
+
+" Shit {<color=red>RG</color>} "
+
+"Cum {<color=red>RG</color>}"
