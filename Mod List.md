@@ -1,4 +1,6 @@
 # MOD LIST FOR INCHARILLA MOD MENU
+
+# Main
 " Settings "
 
 " Important Mods "
@@ -17,6 +19,7 @@
 
 " Return "
 
+# Settings
 " Save Configuration "
 
 " Load Configuration "
@@ -65,6 +68,7 @@
 
 " White Projectiles "
 
+# Movements
 " Return "
 
 " Platforms "
@@ -99,6 +103,7 @@
 
 " Punch Mod {<color=green>Working??</color>} "
 
+# Rig Mods
 " Return "
 
 " Good Mic "
@@ -127,6 +132,7 @@
 
 " Strobe {<color=red>CS</color>} "
 
+# Tag Mods
 " Return "
 
 " No Tag On Join {<color=red>Buggy?</color>} "
@@ -147,6 +153,7 @@
 
 " Untag All {<color=red>D</color>} "
 
+# Fun Mods
 " Return "
 
 " Free Cosmetics {<color=red>CS</color>} "
@@ -187,6 +194,7 @@
 
 " Earrape Sound Spam {<color=red>RG</color>} "
 
+# Visual Mods
 " Return "
 
 " FPC "
@@ -211,6 +219,7 @@
 
 " Return "
 
+# OP Mods
 " Set Master {<color=purple>ANTIBAN</color>} "
 
 " Float Gun "
@@ -259,6 +268,7 @@
 
 " Bring Party To {<color=red>KKK</color>} "
 
+# Projectiles
 " Return "
 
 " Projectile Impact {<color=red>RG</color>} "
